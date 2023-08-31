@@ -59,3 +59,4 @@ do
     echo "Checking checksums"
     (cd ${TARGET_FOLDER}"/${MODEL_PATH}" && md5sum -c checklist.chk)
 done
+https://download2.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoieHlpeXhmZjVraWhlbnBxanQyOXJxZGgwIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQyLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTM1NzI5MTV9fX1dfQ__&Signature=qlVqcUIXtKwRGeUmiQDO%7ENXGiabyf8aX8fZPW1AJFY3yj4Ism%7EbL-PkZMsX3quze-nq%7E1Q-cyZGK3PS23Q2GnFevReQWVhbTNYxohv1%7E-KocKwZiD0V8pY1%7Ets%7EymXq8nCAp4oaNL5sigBDJDeBVETim83m%7EW6%7EtVbRweGvh9jsNci5ihVWv58A-MjpGl2ciE%7E1VdBa71Lwb1FY8HoDw8dWeQrauunmMinjO-5y7desTQfDDyMYfC1axFzpcOBNoHmTLvCMitm%7EC8h%7EqRivhYKtNsobPCJzj1WQhAjv65YkSBpKkbJJkCSyYHaZKzm0OchylFX39R4seSJBrf6gEtQ__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=713333293967318
